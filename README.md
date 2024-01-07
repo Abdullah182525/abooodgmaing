@@ -21,7 +21,6 @@
         <h6>Python</h6>
         <h6>C++</h6>
         <h6>SQL</h6>
-
         <h6>HTML,CSS</h6>
 
 
