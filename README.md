@@ -15,5 +15,17 @@
         </p>
         <h2>check my projects: </h2>
         <a href="https://github.com/abooodgmaing/chat-room">Chat room</a>
+        <h5>programming languages that ive used:</h5>
+        <h6>Lua</h6>
+        <h6>JavaScript</h6>
+        <h6>Python</h6>
+        <h6>C++</h6>
+        <h6>SQL</h6>
+
+        <h6>HTML,CSS</h6>
+
+
+
+
 </body>
 </html>
