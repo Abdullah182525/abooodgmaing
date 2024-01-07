@@ -13,5 +13,7 @@
         <p>
         Currently im working on a simple datacenter backend & infrastructure
         </p>
+        <h2>check my projects: </h2>
+        <a href="https://github.com/abooodgmaing/chat-room">Chat room</a>
 </body>
 </html>
